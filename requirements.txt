@@ -1,0 +1,9 @@
+certifi==2020.12.5
+chardet==4.0.0
+pdfminer.six==20200517
+pdfplumber==0.5.25
+Pillow==8.1.0
+pycryptodome==3.9.9
+sortedcontainers==2.3.0
+Wand==0.6.5
+wincertstore==0.2
